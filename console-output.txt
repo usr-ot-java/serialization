@@ -1,0 +1,8 @@
+Serializing data to XML
+Deserialized data from XML:
+[ChatSummaryResult(chatIdentifier=Apple, membersLast=[Saint-Petersburg], messages=[ChatMessage(belongNumber=+79219213267, sendDate=2023-03-31T14:09:19, text=PROBLEM CRITICAL - There is hight price of the order), ChatMessage(belongNumber=+79215553267, sendDate=2023-03-31T14:53:34, text=PROBLEM WARNING - No more free space on the disc)])]
+Serialized data:
+java.time.Ser�]��"H�  xpw
+  �	�xt 4PROBLEM CRITICAL - There is hight price of the ordersq ~
+t +79215553267sq ~ w
+  �5�xt 0PROBLEM WARNING - No more free space on the discxx
